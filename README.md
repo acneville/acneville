@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Love GIS
 - I am also: Computer scientist, digital artist, writer, clarinetist, indie game dev
 - I enjoy running, lifting, and theme park engineering/design
-- BS/MS Computer Science/Animation with minors in Math and Creative Writing
+- BS/MS Computer Science and Animation with minors in Math and Creative Writing
