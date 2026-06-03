@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - I am also a: Computer scientist, digital artist, writer, clarinetist, indie game dev
 - I enjoy running, lifting, and theme park engineering/design
 - BS/MS Computer Science and Animation with minors in Math and Creative Writing
-- certs: Google IT Support Professional, THM Sec0
+- certs: Google IT Support Professional, THM Sec0 (more to come...)
